@@ -1,1 +1,1 @@
-# telepart-chat-app
+# teleparty-chat-app
