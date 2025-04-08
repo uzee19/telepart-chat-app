@@ -9,5 +9,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/teleparty-chat-app/',
+  base: '/',
 });
